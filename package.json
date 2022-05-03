@@ -6,7 +6,7 @@
     "url": "https://github.com/AgoraSystems/hyperformula-shim.git"
   },
   "author": "Kojo <eng@helloagora.com>",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "main": "index.js",
   "dependencies": {
   }
